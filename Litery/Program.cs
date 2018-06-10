@@ -51,7 +51,7 @@ namespace Litery
 
         public static Int64 Merge(int[] tab, int from1, int interval1 , int interval2)
         {
-            //int[] tabresultowa = new int[tab1.Length + tab2.Length];
+            
             int licznik = from1;
             int tab1Counter = 0, tab2Counter = 0;
             Int64 result = 0; 
